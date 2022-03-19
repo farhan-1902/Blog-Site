@@ -1,0 +1,19 @@
+nav {
+    background-color: #D6E5FA;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.footer {
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+p {
+    white-space: pre-wrap;
+}
